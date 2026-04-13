@@ -5,4 +5,4 @@ Here, we provide the packaged model described in the paper (see the "Packaged_mo
 
 The training code for the final optimized model is provided, see the text "Deep_learning_model_traing_code".
 
-Due to storage limitations, we regret that we were unable to upload the dataset used for model training; however, we assure that you can find it in the Supplementary Information of the published paper.
+The training database is provided as the file TRPL+PLQY.csv, which contains the simulated joint TrPL–PLQY profiles and corresponding kinetic parameters used for model development.
